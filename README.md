@@ -1,5 +1,4 @@
-URL : https://cocky-colden-f90616.netlify.app/
-
+URL : https://wallpaperosama.netlify.app
 
 # Pics --React App
 
